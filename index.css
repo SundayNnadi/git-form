@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.button-section{
+  margin-top: 20px;
+}
+.login{
+    margin-left: 30px;
+    color: blue;
+    font-weight: bolder;
+}
+.hero{
+    display: flex;
+    background-color: brown;
+}
+.image-section>img{
+    width: 250px;
+}
+.image-section{
+    margin-right: 40px;
+    border: 10px;
+    border-color: blue;
+}
+.button{
+    margin: 15px;
+    padding: 3px;
+}
+.submit{
+    margin: 15px;
+    padding-right:  130px;
+    background-color: red;
+    border: none;
+    color: white;
+    font-weight: bolder;
+border: u
+}
